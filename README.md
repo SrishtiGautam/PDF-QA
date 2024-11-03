@@ -7,7 +7,7 @@ This project is a Python-based tool that processes PDF documents, extracts relev
 
 ## Demo Video
 
-![Demo Video](media/PDF-QA-v1.mp4)
+![Demo Video](media/PDF-QA-v2.mp4)
 
 ## Features
 
