@@ -5,7 +5,7 @@
 This project is a Python-based tool that processes PDF documents, extracts relevant information, and posts responses to a specified Slack channel using OpenAI's language models. It employs natural language processing techniques to answer user queries based on the contents of the PDF.
 
 ## Demo
-https://github.com/user-attachments/assets/eaca7216-dcea-45a9-aac4-06dc92f99aae
+
 
 
 ## Features
