@@ -7,7 +7,7 @@ This project is a Python-based tool that processes PDF documents, extracts relev
 
 ## Demo
 
-![Demo Video](https://SrishtiGautam.github.io/PDF-QA/)
+![Demo Video](https://srishtigautam.github.io/PDF-QA/)
 
 ## Features
 
