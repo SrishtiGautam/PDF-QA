@@ -51,8 +51,8 @@ Before running the application, make sure to configure the following parameters 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/repository.git
-   cd repository
+   git clone https://github.com/yourusername/PDF-QA.git
+   cd PDF-QA
    ```
 
 2. Run the script with the desired parameters:
